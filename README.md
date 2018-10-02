@@ -8,3 +8,12 @@
 Since its inception in 2005, the program has brought together 14,000+ student participants and 12,000 mentors from over 125 countries worldwide. Google Summer of Code has produced 35,000,000+ lines of code for 651 open source organizations.*
 
 https://summerofcode.withgoogle.com
+
+
+**#2 GNOME internship program**
+
+
+*The GNOME Foundation is proud to announce the creation of a new GNOME internship program matching strategic projects and valuable contributors, available from today to all who are interested!
+The goal of the GNOME internship program is to bring development towards topics that are critical to further GNOME goals. To achieve such important tasks, software engineering and non-engineering projects are welcome, and everyone is encouraged to apply. Since these tasks are considered to be of higher complexity than other internships programs in the free software community recommend, GNOME internships will have a stipend of $8000 for a 3 month period. The GNOME Foundation is now able to redirect funds for specific topics that can be raised through campaigns and other initiatives.*
+
+https://www.gnome.org/news/2018/05/announcing-the-gnome-internship-program
