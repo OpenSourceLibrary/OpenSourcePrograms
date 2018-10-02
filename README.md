@@ -18,7 +18,7 @@ The goal of the GNOME internship program is to bring development towards topics 
 
 https://www.gnome.org/news/2018/05/announcing-the-gnome-internship-program
 
-**#3  **Dataone Internship**
+**#3 **Dataone Internship**
 
 *The Data Observation Network for Earth (DataONE) is a virtual organization dedicated to providing open, persistent, robust, and secure access to biodiversity and environmental data, supported by the U.S. National Science Foundation. DataONE is pleased to announce the availability of summer research internships for undergraduates, graduate students and recent postgraduates.*
 
