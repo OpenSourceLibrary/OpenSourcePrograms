@@ -9,11 +9,11 @@ Since its inception in 2005, the program has brought together 14,000+ student pa
 
 
 **#2 Redox Summer of Code**
-<h1>Becoming a Sponsor</h1>
+<h3>Becoming a Sponsor</h3>
 At the moment, Redox OS has $10,800 in donations from various platforms to use to fund students. This will give us three students working for three months, if each student requests $1200 per month on average as described in Payment.
 
 In order to fund more students, we are looking for sponsors who are willing to fund RSoC. Donations can be made on the Donate page. All donations will be used to fund Redox OS activities, with about 90% of those over the past year currently allocated to RSoC.
-<h1>Becoming a Student </h1>
+<h3>Becoming a Student </h3>
 RSoC provides more freedom than the GSoC program. Any person can participate, on a schedule of their choosing, for the payment of their choosing.
 
 If you would like to sign up as a RSoC student with Redox OS, please send an email to info@redox-os.org with the following information, and [RSoC] in the subject:
