@@ -2,7 +2,7 @@
 ### Open Source InternShip programs
 
 
-**#1 Google Summer of Code (gsoc)**
+## **#1 Google Summer of Code (gsoc)**
 
 *Google Summer of Code is a global program focused on introducing students to open source software development. Students work on a 3 month programming project with an open source organization during their break from university.
 Since its inception in 2005, the program has brought together 14,000+ student participants and 12,000 mentors from over 125 countries worldwide. Google Summer of Code has produced 35,000,000+ lines of code for 651 open source organizations.*
@@ -10,7 +10,7 @@ Since its inception in 2005, the program has brought together 14,000+ student pa
 https://summerofcode.withgoogle.com
 
 
-**#2 GNOME Internship Program**
+## **#2 GNOME Internship Program**
 
 
 *The GNOME Foundation is proud to announce the creation of a new GNOME internship program matching strategic projects and valuable contributors, available from today to all who are interested!
@@ -18,7 +18,7 @@ The goal of the GNOME internship program is to bring development towards topics 
 
 https://www.gnome.org/news/2018/05/announcing-the-gnome-internship-program
 
-**#3 Dataone Internship**
+## **#3 Dataone Internship**
 
 *The Data Observation Network for Earth (DataONE) is a virtual organization dedicated to providing open, persistent, robust, and secure access to biodiversity and environmental data, supported by the U.S. National Science Foundation. DataONE is pleased to announce the availability of summer research internships for undergraduates, graduate students and recent postgraduates.*
 
