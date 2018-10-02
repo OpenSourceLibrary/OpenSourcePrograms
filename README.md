@@ -19,7 +19,7 @@ Since its inception in 2005, the program has brought together 14,000+ student pa
 *To apply for Outreachy program, checkout [here](https://www.outreachy.org/apply/)*
 *For more info, Visit our site [Here](https://www.outreachy.org/)*
 
-**#2 Redox Summer of Code**
+**#4 Redox Summer of Code**
 
 <h3>Becoming a Sponsor</h3>
 At the moment, Redox OS has $10,800 in donations from various platforms to use to fund students. This will give us three students working for three months, if each student requests $1200 per month on average as described in Payment.
