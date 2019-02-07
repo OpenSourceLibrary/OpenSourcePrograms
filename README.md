@@ -15,3 +15,19 @@ For more information [Read](https://summerofcode.withgoogle.com/about/)
 * *Organizations* : [Search and Lookup for Participating Organizations](https://summerofcode.withgoogle.com/organizations/)
 * *Projects* : [Look for Projects](https://summerofcode.withgoogle.com/projects/)
 * *Help* : [Look for Channels](https://summerofcode.withgoogle.com/help/)
+
+# Outreachy
+
+![Outreachy](https://cdn-images-1.medium.com/max/1200/1*KJLOHBefMUduHQ2SRK4Acw.png)
+
+Outreachy provides three-month internships to work in Free and Open Source Software (FOSS). Interns are paid a stipend of $5,500 and have a $500 travel stipend available to them. Outreachy internship projects may include programming, user experience, documentation, illustration and graphical design, or data science. Interns often find employment after their internship with Outreachy sponsors or in jobs that use the skills they learned during their internship.
+For more information [Read](https://www.outreachy.org/)
+
+* *Eligibility Rules* : Outreachy expressly invites applicants who are women (both cis and trans), trans men, and genderqueer people to apply. [Eligibility Rules](https://www.outreachy.org/apply/eligibility/)
+* *How it Works?* : [Read How Does Outreachy Program works](https://www.outreachy.org/mentor/)
+* *Organizations* : [Search and Lookup for Participating Organizations](https://www.outreachy.org/opportunities/)
+* *Projects* : [Look for Projects](https://www.outreachy.org/apply/project-selection/)
+* *Help* : [Look for Channels](https://www.outreachy.org/contact/contact-us/)
+
+
+
